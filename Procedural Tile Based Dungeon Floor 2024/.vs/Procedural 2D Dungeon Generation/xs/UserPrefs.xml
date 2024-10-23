@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D6A2C478-5F87-0BB0-D155-F92293B5CBDB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ConcentricDungeonGen.cs" Line="209" Column="1" />
+      <File FileName="Assets/Scripts/WallScript.cs" Line="27" Column="32" />
+      <File FileName="Assets/Scripts/TileMapRender.cs" Line="35" Column="20" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="22" Column="10" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scripts/Generator.cs" Line="16" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procedural 2D Dungeon Generation" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Room Types" expanded="True" />
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="59517c61-d6ef-45f8-bb66-54e2b57ce088" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
